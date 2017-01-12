@@ -1,0 +1,7 @@
+{
+    "name": "sbridgewater/redirector",
+    "description": "Redirection Manage for laravel",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {}
+}
